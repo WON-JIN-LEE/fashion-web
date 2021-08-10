@@ -6,7 +6,7 @@
 - 언어 : HTML, CSS, JavaScript
 - 기간 : 21.08.10
 
-### Fashion Web [Click here](https://won-jin-lee.github.io/Product-Card-Ui-01)
+### Fashion Web [Click here](https://won-jin-lee.github.io/fashion-web)
 
 ## Wide Screen
 
