@@ -10,7 +10,7 @@
 
 ## Wide Screen
 
-![wide](demo/widescreen.png)
+![wide](demo/widescreen.PNG)
 
 ## Small Screen
 
